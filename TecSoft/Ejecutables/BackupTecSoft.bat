@@ -1,0 +1,1 @@
+sqlcmd.exe -S  UNKNOWN\SQLEXPRESS -i "F:\Archivos C\Mis Documentos\NetBeansProjects\TecSoft\TecSoft\SQLs\TecSoft.sql" >> "F:\Archivos C\Mis Documentos\NetBeansProjects\TecSoft\TecSoft\Logs\Log_TecSoft.txt"
